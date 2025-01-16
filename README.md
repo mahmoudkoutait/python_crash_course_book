@@ -1,6 +1,6 @@
 # Python Crash Course Exercises
 
-## This repository contains my solutions to the exercises from the book "Python Crash Course" by Eric Matthes "Third Edition". The book is a hands-on introduction to Python programming, covering core concepts and practical projects.
+### This repository contains my solutions to the exercises from the book "Python Crash Course" by Eric Matthes "Third Edition". The book is a hands-on introduction to Python programming, covering core concepts and practical projects.
 
 **About the Book:-**
 
