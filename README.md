@@ -6,7 +6,7 @@
 
 *"Python Crash Course" is designed for beginners and intermediate learners, offering a fast-paced introduction to Python programming.*
 
-**The book covers:**
+**The book covers:-**
 
 - Basic programming concepts
 - Python syntax and libraries
